@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-Lopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Lopes&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <div align="left" style=""><code><img src="https://visitor-badge.laobi.icu/badge?page_id=diego-lopes"></code></div>
+  
 
 <div style="display: inline_block">
   </br>
@@ -30,4 +30,9 @@
 <a href="https://www.linkedin.com/in/diego-lopes-37877a105/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00ffff" target="_blank" alt="LinkedIn">
 </a>
+</div>
+<div align="right" style="">
+  <code>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=diego-lopes">
+  </code>
 </div>
