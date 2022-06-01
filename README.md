@@ -1,6 +1,6 @@
-<h1 align="center"> Hello  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
-    width="24px"
-  />
+<h1 align="center"> Hello  <div width='24' heigth='24'><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
+    width="30px"
+  /></div>
     , I'm Diego Lopes
 </h1>
  
