@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Diego Lopes 😃</h1>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Diego Lopes</h1>
  
 
 <div  align="center">
@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00ffff" target="_blank" alt="LinkedIn">
 </a>
 </div>
+
 <div align="right" style="">
   <code>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=diego-lopes">
