@@ -1,10 +1,10 @@
 <h1 align="center"> Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Diego Lopes</h1>
  
 
-<div  align="center">
+<!-- <div  align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-Lopes&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Lopes&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
   
 
 <div style="display: inline_block"  align="center" >
