@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://diegodev.com.br">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Diego-Lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Lopes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Lopes&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
   
 
