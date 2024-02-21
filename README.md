@@ -27,15 +27,15 @@
 </div>
 
 ----
-<div align="center">
+<div align="center ">
  <a href="https://www.instagram.com/diego.loop" target="_blank">
-     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF" target="_blank" alt="instagram" >
+     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF" alt="instagram" >
  </a>
  <a href = "mailto:odslodsl@gmail.com">
-   <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00ffff" target="_blank" alt="Gmail">
+   <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00ffff" alt="Gmail">
  </a>
  <a href="https://www.linkedin.com/in/diego-lopes-37877a105/" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00ffff" target="_blank" alt="LinkedIn">
+     <img src="https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00ffff" alt="LinkedIn">
  </a>
 </div>
 
