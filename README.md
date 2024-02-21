@@ -1,7 +1,7 @@
 <h1 align="center"> Hello I'm Diego Lopes</h1>
  
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-Lopes&show_icons=true&theme=radical)
+
 <div  align="center">
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-Lopes&show_icons=true&theme=radical"/>
